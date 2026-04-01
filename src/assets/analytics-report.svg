@@ -1,0 +1,18 @@
+<svg width="420" height="280" viewBox="0 0 420 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="280" rx="30" fill="#F7FBF9"/>
+  <rect x="28" y="26" width="364" height="228" rx="24" fill="white" stroke="#D9E8E2"/>
+  <rect x="50" y="48" width="126" height="74" rx="20" fill="#E8FFF7"/>
+  <rect x="190" y="48" width="178" height="34" rx="17" fill="#EFF6FF"/>
+  <rect x="190" y="88" width="178" height="34" rx="17" fill="#FFF4EA"/>
+  <rect x="50" y="142" width="318" height="88" rx="22" fill="#F7FAFC"/>
+  <rect x="68" y="188" width="28" height="24" rx="8" fill="#59C39B"/>
+  <rect x="108" y="176" width="28" height="36" rx="8" fill="#6AB7FF"/>
+  <rect x="148" y="164" width="28" height="48" rx="8" fill="#FFB36A"/>
+  <rect x="188" y="154" width="28" height="58" rx="8" fill="#B08BFF"/>
+  <path d="M242 198C260 174 276 172 292 154C306 138 322 132 346 124" stroke="#1F7A8C" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="346" cy="124" r="10" fill="#1F7A8C"/>
+  <text x="76" y="78" fill="#146356" font-family="Arial, sans-serif" font-size="13" font-weight="700">Behavior</text>
+  <text x="76" y="97" fill="#146356" font-family="Arial, sans-serif" font-size="22" font-weight="700">84/100</text>
+  <text x="212" y="70" fill="#2854C5" font-family="Arial, sans-serif" font-size="14" font-weight="700">Risk outlook</text>
+  <text x="212" y="110" fill="#C25A14" font-family="Arial, sans-serif" font-size="14" font-weight="700">Trend signal</text>
+</svg>
